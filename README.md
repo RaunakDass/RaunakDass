@@ -26,9 +26,9 @@
   <a href="https://skillicons.dev">
       <!-- first row -->
       <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Creact%2Cnextjs%2Cgithub%2Cpython%2Cjavascript%2Ccss&theme=dark" />
-<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cvue%2Cjavascript%2Ccss%2Cwordpress%2Cpr%2Cexpress%2Cstyledcomponents%2Cnextjs%2Cgraphql&theme=light" />
-          <img src="https://skillicons.dev/icons?i=git%2Creact%2Cnextjs%2Cgithub%2Cpython%2Cjavascript%2Ccss&theme=light" alt="skills - 1" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Cts%2Cjavascript%2Chtml%2Ccss%2Cbootstrap%2Cvercel%2Cvscode%2Cc%2Ccpp%2Cmysql&theme=dark" />
+<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Cts%2Cjavascript%2Chtml%2Ccss%2Cbootstrap%2Cvercel%2Cvscode%2Cc%2Ccpp%2Cmysql&theme=light" />
+          <img src="https://skillicons.dev/icons?i=react%2Cnextjs%2Cts%2Cjavascript%2Chtml%2Ccss%2Cbootstrap%2Cvercel%2Cvscode%2Cc%2Ccpp%2Cmysql&theme=light" alt="skills - 1" />
         </picture>
           <br />
 
